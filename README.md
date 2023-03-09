@@ -1,4 +1,4 @@
-### Hi there 👋
+### 게임기획과 개발을 희망하는 임서현입니다. 
 
 <!--
 **Seohyen/Seohyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
