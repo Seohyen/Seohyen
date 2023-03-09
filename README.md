@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C#-A8B9CC?style=flat&logo=C#&logoColor=FFFFFF"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)
 
