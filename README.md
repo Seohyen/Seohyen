@@ -3,8 +3,7 @@
 **Seohyen/Seohyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C#-Blue?style=flat&logo=C++&logoColor=FFFFFF"/>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C#-Blue?style=flat&logo=C++&logoColor=FFFFFF"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)
 
