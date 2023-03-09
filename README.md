@@ -1,7 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Im%20SeoHyun&fontSize=80)
 <!--
 **Seohyen/Seohyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
