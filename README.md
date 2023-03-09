@@ -1,5 +1,4 @@
-### 게임기획과 개발을 희망하는 임서현입니다. 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+ ![header](https://Game designer& Developer.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **Seohyen/Seohyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
