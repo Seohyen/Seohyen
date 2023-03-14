@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Seohyen"><img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=simpleiconsGitHub&logoColor=white&link=https://github.com/Seohyen"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)ㅇ
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)
 
