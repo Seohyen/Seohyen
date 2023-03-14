@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<center>
+#  😃ImSeoHyun 
+##### 번뜩이는 아이디어로 다양한 도전을 하고 싶습니다
+
+</center>
 <a href="https://github.com/Seohyen"><img src="https://img.shields.io/badge/Github-FFFFFF?style=flat-square&logo=simpleiconsGitHub&logoColor=white&link=https://github.com/Seohyen"/></a>
 
 
