@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
  
 &nbsp;
-
+</center>
 
 ## 🔨Development🔨
 <img src="https://img.shields.io/badge/Unity-A8bfcc?style=for-the-badge&logo=Unity&logoColor=white">
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)
-</center>
+
