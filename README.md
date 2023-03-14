@@ -1,6 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Im%20SeoHyun&fontSize=80)
  
- <center>
+ <div align="center">
  
    &nbsp;
 ##### 번뜩이는 아이디어로 다양한 도전을 하고 싶습니다
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
+
  
 &nbsp;
 ## 🛠Language🛠
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
 &nbsp;
  
-</center>
+
 
 ## 🔨Development🔨
 <img src="https://img.shields.io/badge/Unity-A8bfcc?style=for-the-badge&logo=Unity&logoColor=white">
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 
-</center>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)
 
