@@ -1,5 +1,7 @@
  ![header](https://capsule-render.vercel.app/api?type=Shark&color=auto&height=300&section=header&text=Im%20SeoHyun&fontSize=80)
  
+ <center>
+ 
    &nbsp;
 ##### 번뜩이는 아이디어로 다양한 도전을 하고 싶습니다
 
@@ -50,6 +52,7 @@ Here are some ideas to get you started:
 &nbsp;
 
 
+</center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)
 
