@@ -1,7 +1,7 @@
   <div align="center">
  
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Im%20SeoHyun&fontSize=80)
- 
+  
 
   
    &nbsp;
