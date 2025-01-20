@@ -2,7 +2,7 @@
  
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Im%20SeoHyun&fontSize=80)
   
- 
+  
    
    &nbsp;
 ### 번뜩이는 아이디어로 다양한 도전을 하고 싶습니다  
