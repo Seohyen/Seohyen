@@ -66,6 +66,11 @@
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
+### 🏢 Enterprise / Low-Code
+
+<img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPlatform-742774?style=for-the-badge"/>
+
 ---
 
 ## 📊 Algorithm & Activity
