@@ -39,7 +39,6 @@
 ### 🔥 Main (실무 경험)
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Nexacro-Enterprise_UI_Framework-1F6FEB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WinForms-.NET-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DevExpress-UI_Component-FF7200?style=for-the-badge"/>
