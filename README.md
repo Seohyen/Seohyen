@@ -66,6 +66,7 @@
 | Nexacro | Python |
 | WinForms | JavaScript |
 | DevExpress | |
+| Spring | |
 | Unity | |
 
 </td>
