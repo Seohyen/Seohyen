@@ -43,11 +43,11 @@
 
 <br>
 
-| 🔥 Main | 💻 Language |
+| 🔥 Main (실무) | 💻 Language |
 |---------|------------|
 | Oracle | C# |
 | Nexacro | Python |
-| WinForms | JavaScript |
+| WinForms | |
 | DevExpress | |
 
 <br>
