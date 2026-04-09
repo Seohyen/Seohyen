@@ -1,25 +1,92 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Im%20SeoHyun&fontSize=80)
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Im%20SeoHyun&fontSize=70"/>
 
-### 번뜩이는 아이디어로 다양한 도전을 하고 싶습니다
+### 🚀 번뜩이는 아이디어로 다양한 도전을 하는 개발자
 
----
+<br>
 
-## 😎 활동 😎
-👩‍🎓 2024 경기게임마이스터고등학교 졸업  
-✨ 2022 스마틴 앱 챌린지 개발 부문 - 최우수상  
-😁 SSAFY 13기  
-
-## 👓 My Career 👓
-(주) 아이어스 - 컨텐츠 개발팀, 컨텐츠 개발자 2025.01 ~ 2025.12  
-(주) 엠지엘 코리아 - 회계모듈팀, 풀스택 개발(FE, BE, DB) 2025.04 ~ 2026.03  
-TYM - 연구관리팀, 사내 IT 서비스 개발 2026.04 ~  
+</div>
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=im4097)](https://solved.ac/im4097/)
+## 😎 Activity
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Seohyen&year=2026)](https://github.com/marshallku/gitgarden)
+- 👩‍🎓 경기게임마이스터고등학교 졸업 (2024)
+- 🏆 2022 스마틴 앱 챌린지 개발 부문 최우수상
+- 💻 SSAFY 13기 Python Track
+
+---
+
+## 👓 Career
+
+**TYM**  
+연구관리팀 | 사내 IT 서비스 개발  
+2026.04 ~
+
+**엠지엘코리아**  
+회계모듈팀 | 풀스택 개발 (FE / BE / DB)  
+2025.04 ~ 2026.03
+
+**아이어스**  
+컨텐츠 개발팀 | 컨텐츠 개발자  
+2025.01 ~ 2025.12
+
+---
+
+## 🛠 Tech Stack
+
+### Language
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### Backend / Framework
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+### Tools
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+
+---
+
+## 📊 Algorithm & Activity
+
+<div align="center">
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=im4097" height="140"/>
+
+<img src="https://gitgarden.marshallku.dev/?user_name=Seohyen&year=2026" width="420"/>
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seohyen&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 💡 About Me
+
+- ERP / 사내 IT 시스템 개발 경험
+- 데이터 관리 및 업무 자동화 관심
+- Python 기반 개발 역량 성장 중
+- 안정적인 서비스 개발 지향
+
+---
+
+<div align="center">
+
+### 🔥 꾸준히 성장하는 개발자가 되겠습니다
 
 </div>
