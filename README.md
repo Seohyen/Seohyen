@@ -81,18 +81,6 @@
 ---
 
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seohyen&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🔥 꾸준히 성장하는 개발자가 되겠습니다
