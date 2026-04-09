@@ -65,7 +65,7 @@
 | Oracle | C# |
 | Spring | Python |
 | Nexacro | JavaScript |
-| WinForms | |
+| WinForms | Java |
 | DevExpress | |
 | Unity | |
 
