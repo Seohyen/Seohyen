@@ -35,37 +35,60 @@
 ---
 ## 🛠 Tech Stack
 
-| ⚙ Backend | 🎨 Frontend |
-|-----------|------------|
+<table>
+<tr>
+<td>
+
+### ⚙ Backend | 🎨 Frontend
+
+| Backend | Frontend |
+|---------|----------|
 | Django | Vue |
 | Spring | React |
 |  | HTML / JavaScript |
 
-<br>
+</td>
 
-| 🔥 Main (실무) | 💻 Language |
-|---------|------------|
+<td>
+
+### 🔥 Main | 💻 Language
+
+| Main | Language |
+|------|----------|
 | Oracle | C# |
 | Nexacro | Python |
-| WinForms | |
+| WinForms | JavaScript |
 | DevExpress | |
-| Unity | |
 
-<br>
+</td>
+</tr>
 
-| 🗄 Database | 🎮 Engine |
-|------------|-----------|
+<tr>
+<td>
+
+### 🗄 Database | 🎮 Engine
+
+| Database | Engine |
+|----------|--------|
 | Oracle | Unity |
 | SQL | |
 
-<br>
+</td>
 
-| 🧰 Tools | 🏢 Enterprise |
-|---------|--------------|
+<td>
+
+### 🧰 Tools | 🏢 Enterprise
+
+| Tools | Enterprise |
+|-------|------------|
 | Git | PowerApps |
 | Visual Studio | Power Platform |
 | VS Code | |
 
+</td>
+</tr>
+
+</table>
 ---
 
 
