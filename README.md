@@ -66,6 +66,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 ---
 
 ## 📊 Algorithm & Activity
@@ -77,7 +78,6 @@
 <img src="https://gitgarden.marshallku.dev/?user_name=Seohyen&year=2026" width="420"/>
 
 </div>
-
 
 ---
 
