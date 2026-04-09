@@ -35,9 +35,11 @@
 ---
 ## 🛠 Tech Stack
 
-<table>
+<br>
+
+<table align="center">
 <tr>
-<td>
+<td align="center">
 
 ### ⚙ Backend | 🎨 Frontend
 
@@ -49,7 +51,9 @@
 
 </td>
 
-<td>
+<td width="60"></td>
+
+<td align="center">
 
 ### 🔥 Main | 💻 Language
 
@@ -64,7 +68,7 @@
 </tr>
 
 <tr>
-<td>
+<td align="center">
 
 ### 🗄 Database | 🎮 Engine
 
@@ -75,7 +79,9 @@
 
 </td>
 
-<td>
+<td></td>
+
+<td align="center">
 
 ### 🧰 Tools | 🏢 Enterprise
 
@@ -89,6 +95,8 @@
 </tr>
 
 </table>
+
+<br>
 ---
 
 
