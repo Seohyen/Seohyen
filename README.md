@@ -63,10 +63,10 @@
 | Main | Language |
 |------|----------|
 | Oracle | C# |
-| Nexacro | Python |
-| WinForms | JavaScript |
+| Spring | Python |
+| Nexacro | JavaScript |
+| WinForms | |
 | DevExpress | |
-| Spring | |
 | Unity | |
 
 </td>
