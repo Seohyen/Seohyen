@@ -55,7 +55,7 @@
 
 <td align="center">
 
-### 🔥 Main | 💻 Language
+### 🔥 Main(실무) | 💻 Language
 
 | Main | Language |
 |------|----------|
@@ -63,6 +63,7 @@
 | Nexacro | Python |
 | WinForms | JavaScript |
 | DevExpress | |
+| Unity | |
 
 </td>
 </tr>
@@ -97,6 +98,7 @@
 </table>
 
 <br>
+
 ---
 
 
