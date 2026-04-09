@@ -107,3 +107,10 @@
 ### 🔥 꾸준히 성장하는 개발자가 되겠습니다
 
 </div>
+
+<div align="center">
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=im4097" height="140" />
+<img src="https://gitgarden.marshallku.dev/?user_name=Seohyen&year=2026" width="420" />
+
+</div>
