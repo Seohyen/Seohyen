@@ -32,9 +32,7 @@ TYM - 연구관리팀 , 사내 IT 서비스 개발  2026.04 ~
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=im4097)](https://solved.ac/im4097/)
 
-[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Seohyen&year=2024)](https://github.com/marshallku/gitgarden)
-
-
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=Seohyen)](https://github.com/marshallku/gitgarden)
 
  
 </div>
