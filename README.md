@@ -30,7 +30,7 @@ TYM - 연구관리팀 , 사내 IT 서비스 개발  2026.04 ~
  
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seohyen&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/im4097/)
 
  
 </div>
